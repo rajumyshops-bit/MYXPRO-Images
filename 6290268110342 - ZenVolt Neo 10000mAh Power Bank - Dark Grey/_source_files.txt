@@ -1,0 +1,10 @@
+ZenVolt Neo 10000mAh power bank | colour: Dark Grey | barcode: 6290268110342
+MAIN  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5074.png
+PT01  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5075.png
+PT02  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5076.png
+PT03  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5077.png
+PT04  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5078.png
+PT05  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5079.png
+PT06  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5080.png
+PT07  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5081.png
+PT08  <-  ZenVolt Neo/10000mAh/MINI14-22.5W黑色.5082.png

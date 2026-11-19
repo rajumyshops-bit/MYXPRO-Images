@@ -1,0 +1,10 @@
+ZenVolt Neo 20000mAh power bank | colour: White | barcode: NO-BARCODE
+MAIN  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5109.png
+PT01  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5107.png
+PT02  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5108.png
+PT03  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5110.png
+PT04  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5111.png
+PT05  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5112.png
+PT06  <-  ZenVolt Neo/20k mAh/MINI15-65W白色.5113.png
+
+CHECK: No barcode yet (MP15W).

@@ -1,0 +1,9 @@
+ZenVolt Neo 10000mAh power bank | colour: White | barcode: NO-BARCODE
+MAIN  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5084.png
+PT01  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5085.png
+PT02  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5088.png
+PT03  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5089.png
+PT04  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5090.png
+PT05  <-  ZenVolt Neo/10000mAh/MINI14-22.5W白色.5091.png
+
+CHECK: No barcode yet (MP14W).

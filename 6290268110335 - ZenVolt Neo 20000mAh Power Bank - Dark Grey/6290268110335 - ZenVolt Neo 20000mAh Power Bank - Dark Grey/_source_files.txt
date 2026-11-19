@@ -1,0 +1,10 @@
+ZenVolt Neo 20000mAh power bank | colour: Dark Grey | barcode: 6290268110335
+MAIN  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5094.png
+PT01  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5095.png
+PT02  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5096.png
+PT03  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5097.png
+PT04  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5098.png
+PT05  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5099.png
+PT06  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5100.png
+PT07  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5101.png
+PT08  <-  ZenVolt Neo/20k mAh/MINI15-65W黑色.5102.png
